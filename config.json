@@ -1,0 +1,9 @@
+{
+  "config": {
+    "NAME_CITY": "Grenoble",
+    "COUNTRY_CITY": "FR",
+    "LATITUDE_CITY": "45.166672",
+    "LONGITUDE_CITY": "5.71667",
+    "UNIT_SYSTEM": "metric"
+  }
+}
