@@ -2,7 +2,7 @@
 
 View the current weather in any city on the planet. Change between metric and imperial units.
 
-![Alt img](https://images.ctfassets.net/zlsyc9paq6sa/3uBrJ07WSM40FpolgjInHY/7d886cb4187b52194bf9b63c183a1d3a/1627637330_x.gif)
+[🔗 Online site](https://weather-app-cda.vercel.app/).
 
 ## Features
 
